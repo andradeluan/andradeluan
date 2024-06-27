@@ -1,5 +1,5 @@
-Me chamo Luan, tenho 20 anos e atualmente estou cursando Ciência de Dados na UEPB.
-Sou fascinado com a evolução da tecnologia e em como ela nos ajuda a resolver problemas complexos.
+Estudante de Ciência de Dados na UEPB, apaixonado por transformar dados em soluções que geram impacto. Busco oportunidades de estágio para aplicar meus conhecimentos em projetos do mundo real.
 
-Estou em busca de um emprego/estágio a fim de acelerar minha evolução na área do desenvolvimento de software. Possuo conhecimento em Python, HTML, CSS, JavaScript, UI Design (Figma) e Git.
-Ultimamente, estou estudando POO com Python, Django e Banco de Dados.
+Minhas habilidades: Python (Pandas, NumPy, Sympy, Matplotlib, POO), SQL, bancos de dados relacionais, Flask, HTML, CSS, JavaScript, UI Design (Figma) e Git.
+
+Aberto a novas oportunidades de aprendizado e colaboração. Vamos conectar e explorar como posso contribuir para o sucesso da sua equipe!
